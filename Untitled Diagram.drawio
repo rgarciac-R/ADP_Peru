@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T20:30:41.312Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Z4r6mvfon-QRQVXCK7GL" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T22:56:37.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="WgLuDNEpL4FsqigpWk9n" version="14.7.0" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="1021" dy="529" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1447" dy="750" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -190,7 +190,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xLXz4MAD2vCh0M7yTRHs-33" value="MATRIZ VARIACION" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;" parent="4VyyNgtOQg0zBXDYQDEN-43" vertex="1">
+        <mxCell id="xLXz4MAD2vCh0M7yTRHs-33" value="MATRIZ VARIACION&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;PRECIOS ESPECIFICOS&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;" parent="4VyyNgtOQg0zBXDYQDEN-43" vertex="1">
           <mxGeometry x="313" y="195.25" width="128" height="50.5" as="geometry" />
         </mxCell>
         <mxCell id="xLXz4MAD2vCh0M7yTRHs-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" parent="4VyyNgtOQg0zBXDYQDEN-43" source="xLXz4MAD2vCh0M7yTRHs-26" target="xLXz4MAD2vCh0M7yTRHs-33" edge="1">
@@ -218,7 +218,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xLXz4MAD2vCh0M7yTRHs-39" value="MATRIZ ESTILO" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;" parent="4VyyNgtOQg0zBXDYQDEN-43" vertex="1">
+        <mxCell id="xLXz4MAD2vCh0M7yTRHs-39" value="MATRIZ ESTILO&lt;br&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;PRECIOS ESPECIFICOS&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;" parent="4VyyNgtOQg0zBXDYQDEN-43" vertex="1">
           <mxGeometry x="316" y="278.5" width="128" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xLXz4MAD2vCh0M7yTRHs-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" parent="4VyyNgtOQg0zBXDYQDEN-43" source="4VyyNgtOQg0zBXDYQDEN-102" target="xLXz4MAD2vCh0M7yTRHs-39" edge="1">
